@@ -1,2 +1,13 @@
-# Island-X
-Island X is a attempt to make malware on certain websites.
+# Island X
+
+Island X is a script library hosted to certain websites, using their internal workings.
+
+### Usage:
+Paste in Console:
+```
+import 
+```
+Bookmark:
+```
+import
+```
